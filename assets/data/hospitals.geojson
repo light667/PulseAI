@@ -1,0 +1,7257 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-08T17:29:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102858259",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital Mère et Enfants SOS",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2104389,
+          9.5616012
+        ]
+      },
+      "id": "way/102858259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113792782",
+        "amenity": "hospital",
+        "name": "DISPENSAIRE ST LUC",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1820409,
+          9.5273122
+        ]
+      },
+      "id": "way/113792782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113982089",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "CMS Agnaram",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2033493,
+          9.5338802
+        ]
+      },
+      "id": "way/113982089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168072345",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital Baptiste Biblique",
+        "opening_hours": "24/7",
+        "source": "gps",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7001143,
+          7.1247012
+        ]
+      },
+      "id": "way/168072345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228164855",
+        "amenity": "hospital",
+        "barrier": "fence",
+        "name": "Hopital Bon Sécours de Kegué",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2360554,
+          6.1918095
+        ]
+      },
+      "id": "way/228164855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232368347",
+        "amenity": "hospital",
+        "health_facility:type": "hospital",
+        "name": "Dispensaire de Lavié",
+        "operator:type": "government",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6768477,
+          7.0107556
+        ]
+      },
+      "id": "way/232368347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235999901",
+        "amenity": "hospital",
+        "name": "CMS Cacaveli",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1959267,
+          6.2066542
+        ]
+      },
+      "id": "way/235999901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267429663",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "AED",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1711685,
+          9.5442654
+        ]
+      },
+      "id": "way/267429663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268725231",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "healthcare": "hospital",
+        "height": "2",
+        "name": "HOPITAL CHR",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1349191,
+          8.9845854
+        ]
+      },
+      "id": "way/268725231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275049566",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Unité de Soins Périphériques de Tové",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6484132,
+          6.8795132
+        ]
+      },
+      "id": "way/275049566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287721199",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "USP Kaniamboua",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0038862,
+          8.6121383
+        ]
+      },
+      "id": "way/287721199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308634074",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre Hospitalier Préfectoral de Kpalimé",
+        "operator": "Etat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6269936,
+          6.9121225
+        ]
+      },
+      "id": "way/308634074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314994541",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "healthcare": "hospital",
+        "name": "CMS Doumassesse",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2176737,
+          6.1600548
+        ]
+      },
+      "id": "way/314994541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352969032",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS ATIKOUME",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2072875,
+          6.166235
+        ]
+      },
+      "id": "way/352969032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353299309",
+        "amenity": "hospital",
+        "name": "Centre de santé de Tcharè-Baou",
+        "operator": "Public",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0143486,
+          8.0639388
+        ]
+      },
+      "id": "way/353299309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/358654376",
+        "amenity": "hospital",
+        "building": "hospital",
+        "capacity:beds": "8",
+        "disused": "yes",
+        "healthcare:cholera": "no",
+        "name": "Diepensaire de Kouma Apoti",
+        "operator:type": "government",
+        "source": "bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5614291,
+          6.983804
+        ]
+      },
+      "id": "way/358654376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371154699",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hopital de Bethesda",
+        "name:fr": "Hopital de Bethesda",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7267071,
+          6.884127
+        ]
+      },
+      "id": "way/371154699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379735527",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CNTS",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2176604,
+          6.1594646
+        ]
+      },
+      "id": "way/379735527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402937795",
+        "amenity": "hospital",
+        "name": "Pharmacy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8086296,
+          9.460127
+        ]
+      },
+      "id": "way/402937795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409394924",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital Saint-Joseph",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1523768,
+          7.4335025
+        ]
+      },
+      "id": "way/409394924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412119031",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital de Bè",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2463976,
+          6.1407758
+        ]
+      },
+      "id": "way/412119031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/452702169",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Alibi II;Les salles de maternité",
+        "name:en": "Maternity ward",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.303784,
+          8.9634274
+        ]
+      },
+      "id": "way/452702169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/480952907",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "PHARMACIE KEGUE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2414563,
+          6.2093712
+        ]
+      },
+      "id": "way/480952907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489797830",
+        "amenity": "hospital",
+        "building": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Alibi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4176248,
+          8.9458924
+        ]
+      },
+      "id": "way/489797830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507790630",
+        "amenity": "hospital",
+        "name": "Ospedale Suore della Divina Misericordia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4108225,
+          6.6553049
+        ]
+      },
+      "id": "way/507790630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519010871",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHU Kara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.18292,
+          9.5560522
+        ]
+      },
+      "id": "way/519010871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543135447",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "internal;orthopaedics;radiology",
+        "name": "Centre Saint Louis Orione de Bombouaka",
+        "operator": "Congrégation Don Orione",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2100179,
+          10.6929211
+        ]
+      },
+      "id": "way/543135447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545103153",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9067078,
+          6.7501415
+        ]
+      },
+      "id": "way/545103153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/656857339",
+        "addr:city": "Kologon",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "DISPENSAIRE DE KOLOGAN",
+        "name:en": "Kologan Dispensary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.915487,
+          6.808162
+        ]
+      },
+      "id": "way/656857339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/744867415",
+        "amenity": "hospital",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1846716,
+          9.5832144
+        ]
+      },
+      "id": "way/744867415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/759372112",
+        "amenity": "hospital",
+        "description": "Cette suface est approximative.",
+        "healthcare": "hospital",
+        "name": "Hôpital de l'Espérance",
+        "name:fr": "Hôpital de l'Espérance",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4770292,
+          10.3715464
+        ]
+      },
+      "id": "way/759372112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800718203",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3084027,
+          10.9076857
+        ]
+      },
+      "id": "way/800718203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800718607",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "landuse": "healthcare",
+        "name": "CMS Adabawéré",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1682707,
+          9.5462308
+        ]
+      },
+      "id": "way/800718607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800718845",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "A T B E F",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1796583,
+          9.5473349
+        ]
+      },
+      "id": "way/800718845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800718979",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1808751,
+          9.5728347
+        ]
+      },
+      "id": "way/800718979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800719555",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Polyclinique",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1389835,
+          8.9815036
+        ]
+      },
+      "id": "way/800719555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800719819",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hopital Anna Maria",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1484164,
+          7.5260993
+        ]
+      },
+      "id": "way/800719819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800719951",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire de Kpimé-Hloma",
+        "operator:type": "government",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6509664,
+          6.9746103
+        ]
+      },
+      "id": "way/800719951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800720197",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "St. Luke's Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9640574,
+          8.1860796
+        ]
+      },
+      "id": "way/800720197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800720423",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Maternité",
+        "source": "bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.658987,
+          6.9348496
+        ]
+      },
+      "id": "way/800720423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800729506",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire de l'Habitat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5724124,
+          6.2238755
+        ]
+      },
+      "id": "way/800729506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800729997",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS Siloah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8148236,
+          7.3154881
+        ]
+      },
+      "id": "way/800729997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800730219",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS Baguida",
+        "source": "bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3255399,
+          6.1700773
+        ]
+      },
+      "id": "way/800730219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800730648",
+        "amenity": "hospital",
+        "health_facility:type": "CHP",
+        "healthcare": "hospital",
+        "name": "Centre Hopitalier Préfectoral de SOTOUBOUA",
+        "operator:type": "public",
+        "source": "Bing; Survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9781191,
+          8.5562424
+        ]
+      },
+      "id": "way/800730648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800730828",
+        "addr:city": "Dédome",
+        "addr:postcode": "BP414",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hôpital St Gothard de Dedome",
+        "note": "Médecine Générale, Pédiatrie, gynécologie, Laboratoirere, Obstétrique, Chirurgie générale, Chirurgie plastique, Chirurgie de main Ophtalmologie, Laboratoire, Radiologie, Echographie, ECC, Pharmacie, Morgue Email: hopitalsaintgothard@gmail.com",
+        "phone": "+228 23 35 82 49",
+        "source": "Survey",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9828522,
+          7.5027872
+        ]
+      },
+      "id": "way/800730828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800730907",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS centre medico-social",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1935489,
+          6.2417716
+        ]
+      },
+      "id": "way/800730907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800731135",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "hôpitale du CAMP FIR",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1898333,
+          6.2462221
+        ]
+      },
+      "id": "way/800731135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800737037",
+        "amenity": "hospital",
+        "description": "Centre médico social",
+        "healthcare": "hospital",
+        "name": "CMS",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1791951,
+          6.1989566
+        ]
+      },
+      "id": "way/800737037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800737591",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Cabinet médical la grâce",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2605899,
+          6.1521618
+        ]
+      },
+      "id": "way/800737591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800738136",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital Préfectoral de Vogan;CHP Vogan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5241377,
+          6.3478763
+        ]
+      },
+      "id": "way/800738136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800738537",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre de Santé Esperance",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1581599,
+          8.9742583
+        ]
+      },
+      "id": "way/800738537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800738621",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP KADAMBARA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1711487,
+          8.9542931
+        ]
+      },
+      "id": "way/800738621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800738839",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unité de Soins Périphérique Komah 2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1467032,
+          8.97234
+        ]
+      },
+      "id": "way/800738839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800739846",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHU Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2121929,
+          6.1796183
+        ]
+      },
+      "id": "way/800739846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800740392",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique de gastro entérologie",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2081233,
+          6.1927296
+        ]
+      },
+      "id": "way/800740392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800746233",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS Kabou",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8085954,
+          9.4606425
+        ]
+      },
+      "id": "way/800746233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800746286",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHP Bassar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7810576,
+          9.2686378
+        ]
+      },
+      "id": "way/800746286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800754451",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique Bien-Être",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1622405,
+          6.1881987
+        ]
+      },
+      "id": "way/800754451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800758668",
+        "abandoned": "no",
+        "amenity": "hospital",
+        "disused": "no",
+        "health_facility:type": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre hospitalier Régional",
+        "operator:type": "public",
+        "source": "Bing; Survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2027217,
+          9.5614578
+        ]
+      },
+      "id": "way/800758668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800758938",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CLINIQUE MERE ET ENFANT",
+        "name:fr": "CLINIQUE MERE ET ENFANT",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1991065,
+          6.1843148
+        ]
+      },
+      "id": "way/800758938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800759271",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8509635,
+          7.3497458
+        ]
+      },
+      "id": "way/800759271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800759540",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8614924,
+          7.3815723
+        ]
+      },
+      "id": "way/800759540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800760910",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Akata Agame",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7091455,
+          7.0475666
+        ]
+      },
+      "id": "way/800760910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800762782",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHP de GUERIN-KOUKA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6067992,
+          9.6932516
+        ]
+      },
+      "id": "way/800762782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800946558",
+        "amenity": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4177893,
+          8.9946994
+        ]
+      },
+      "id": "way/800946558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800947936",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Chp;CHP BASSAR",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7805507,
+          9.2644288
+        ]
+      },
+      "id": "way/800947936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800948424",
+        "amenity": "hospital",
+        "description": "Centre de Santé Communautaire",
+        "health_facility:type": "CMS",
+        "healthcare": "hospital",
+        "name": "CMS CECODRI",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9718316,
+          8.5645238
+        ]
+      },
+      "id": "way/800948424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800949188",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "DPS of Kpendjal",
+        "name:fr": "DPS of Kpendjal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8132382,
+          10.8529437
+        ]
+      },
+      "id": "way/800949188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800949859",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique Anne -Marie Roue",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1913673,
+          6.1825045
+        ]
+      },
+      "id": "way/800949859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800950310",
+        "addr:postcode": "183",
+        "addr:street": "Lomé - Cinkassé",
+        "amenity": "hospital",
+        "email": "directioncmpj@puitsdejacob.com",
+        "healthcare": "hospital",
+        "name": "Centre médical Puits de Jacob",
+        "name:en": "Medical center Puits de Jacob",
+        "opening_hours": "Mo-Fr 07:00-17:30",
+        "phone": "+22825510511",
+        "website": "https://centremedicalpuitsdejacob.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1379769,
+          9.014628
+        ]
+      },
+      "id": "way/800950310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800951020",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aneho Psychiatric Hospital",
+        "name:en": "Aneho Psychiatric Hospital",
+        "phone": "+22823301163",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6154651,
+          6.2497734
+        ]
+      },
+      "id": "way/800951020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800951300",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique Biasa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.213447,
+          6.1337423
+        ]
+      },
+      "id": "way/800951300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800951940",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique Sainte Trinité",
+        "phone": "+22822400340",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1719317,
+          6.181579
+        ]
+      },
+      "id": "way/800951940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800952095",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Blanc Blanc",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2669093,
+          6.1614632
+        ]
+      },
+      "id": "way/800952095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800952354",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.275263,
+          6.1712022
+        ]
+      },
+      "id": "way/800952354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800955786",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3227619,
+          9.7447476
+        ]
+      },
+      "id": "way/800955786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800958517",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre Hospitalier Regional de Tsevie",
+        "short_name": "CHR-T",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2228519,
+          6.4314504
+        ]
+      },
+      "id": "way/800958517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800958765",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS-Namoudjoga",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.391326,
+          10.8946294
+        ]
+      },
+      "id": "way/800958765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800959255",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2081872,
+          6.4111064
+        ]
+      },
+      "id": "way/800959255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800961157",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS LA LUMIERE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6463142,
+          6.9051487
+        ]
+      },
+      "id": "way/800961157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800962260",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS docteur wottor",
+        "phone": "+22824425969",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6393356,
+          6.9243701
+        ]
+      },
+      "id": "way/800962260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800964067",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire de Legbassito-Madjikpéto",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1442783,
+          6.2641677
+        ]
+      },
+      "id": "way/800964067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800964555",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Notre sante d'abord",
+        "phone": "+22890412507",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6427402,
+          6.9126335
+        ]
+      },
+      "id": "way/800964555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800964933",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre d'ophtalmologie renard & agossou",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6381653,
+          6.9141774
+        ]
+      },
+      "id": "way/800964933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800965023",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "dispensaire urbain de kpogadzi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6499196,
+          6.9017348
+        ]
+      },
+      "id": "way/800965023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800967587",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "centre de malade mental",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6539767,
+          6.9272471
+        ]
+      },
+      "id": "way/800967587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800968183",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "centre medical chinois",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6288115,
+          6.8873149
+        ]
+      },
+      "id": "way/800968183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800968283",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "clinique amitie",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6290094,
+          6.8930409
+        ]
+      },
+      "id": "way/800968283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800969064",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital Regina Pacis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1405381,
+          6.2097032
+        ]
+      },
+      "id": "way/800969064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800969244",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre Médico Social d 'Adétikopé",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.222397,
+          6.3182367
+        ]
+      },
+      "id": "way/800969244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800969705",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital des Soeurs Agatha Caréli",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1645208,
+          6.2579332
+        ]
+      },
+      "id": "way/800969705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800969815",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique Novissi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2535775,
+          6.1774822
+        ]
+      },
+      "id": "way/800969815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800970311",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre de santé",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9641053,
+          8.1768896
+        ]
+      },
+      "id": "way/800970311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800970429",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0379578,
+          7.9953039
+        ]
+      },
+      "id": "way/800970429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800972448",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHU Tokoin",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.207788,
+          6.1451442
+        ]
+      },
+      "id": "way/800972448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800972643",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "OIDIF CMS Yayra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1502446,
+          6.233229
+        ]
+      },
+      "id": "way/800972643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800974161",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHP Mango",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4677684,
+          10.3527087
+        ]
+      },
+      "id": "way/800974161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800974996",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre de Réeducation fonctionnelle et d'appareillage Orthopédique",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1118997,
+          9.0003921
+        ]
+      },
+      "id": "way/800974996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800975154",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire Katomé",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6190616,
+          7.3789513
+        ]
+      },
+      "id": "way/800975154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800975454",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique dentaire Nifa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2141268,
+          6.1339623
+        ]
+      },
+      "id": "way/800975454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800975909",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHP Tabligbo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5073589,
+          6.6032858
+        ]
+      },
+      "id": "way/800975909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/847617430",
+        "amenity": "hospital",
+        "healthcare": "nurse",
+        "name": "Centre Médical Social d'Aklakou",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7273037,
+          6.3226631
+        ]
+      },
+      "id": "way/847617430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899412258",
+        "amenity": "hospital",
+        "name": "USP N'djei",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.351838,
+          9.509567
+        ]
+      },
+      "id": "way/899412258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909935045",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "healthcare": "hospital",
+        "source": "Maxar Standard;Survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1094163,
+          9.7621871
+        ]
+      },
+      "id": "way/909935045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/958997710",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "name": "Blitta hospital",
+        "source": "Bing;Survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9863922,
+          8.3314808
+        ]
+      },
+      "id": "way/958997710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/986754687",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Domaine de l'hôpital de Notsé",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1732987,
+          6.951684
+        ]
+      },
+      "id": "way/986754687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1031029427",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital de l'Ordre Souverain de Malte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2832558,
+          7.9583447
+        ]
+      },
+      "id": "way/1031029427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160401522",
+        "addr:city": "Balanka",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "operator": "Balanka",
+        "operator:type": "public",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6134081,
+          8.8639983
+        ]
+      },
+      "id": "way/1160401522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164154212",
+        "amenity": "hospital",
+        "name": "USP TCHITCHAO",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1373868,
+          9.6243829
+        ]
+      },
+      "id": "way/1164154212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1207896537",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "CMS Dapankpergou",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2192094,
+          10.8338959
+        ]
+      },
+      "id": "way/1207896537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1291724394",
+        "amenity": "hospital",
+        "name": "Croix Rouge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2183584,
+          9.5630569
+        ]
+      },
+      "id": "node/1291724394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292960067",
+        "amenity": "hospital",
+        "name": "Clinique Tout est grâce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2037914,
+          9.5520529
+        ]
+      },
+      "id": "node/1292960067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2407209028",
+        "amenity": "hospital",
+        "health_facility:type": "laboratory",
+        "healthcare": "hospital",
+        "name": "Laboratoire d'Analyses Médicales",
+        "operator": "ONG Chance de Vivre; SILD Togo",
+        "operator:type": "ngo",
+        "source": "Bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6769506,
+          7.0109047
+        ]
+      },
+      "id": "node/2407209028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2435398462",
+        "amenity": "hospital",
+        "name": "Centre Médico-Social d'Agoè-Nyivé",
+        "source": "bing; survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2101698,
+          6.2239604
+        ]
+      },
+      "id": "node/2435398462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2642979522",
+        "amenity": "hospital",
+        "name": "Centre medico-social de secours Christ Roi",
+        "short_name": "CMS Christ Roi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2064404,
+          6.1204623
+        ]
+      },
+      "id": "node/2642979522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2999860534",
+        "amenity": "hospital",
+        "name": "Centre Hospitalier d'Aneho Adjido",
+        "short_name": "CHA",
+        "source": "bing;survey 2014",
+        "source:date": "2014/08/06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6089395,
+          6.2368165
+        ]
+      },
+      "id": "node/2999860534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3022452153",
+        "amenity": "hospital",
+        "name": "Centre de santé de Kodjoviakopé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2059168,
+          6.1168602
+        ]
+      },
+      "id": "node/3022452153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3859947896",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "cabinet médical st Kisito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.218404,
+          6.1570725
+        ]
+      },
+      "id": "node/3859947896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4160139089",
+        "amenity": "hospital",
+        "disused": "no",
+        "name": "Centre Médico-Social de K2vé",
+        "operator:type": "public",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9275299,
+          6.4319204
+        ]
+      },
+      "id": "node/4160139089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4328284004",
+        "amenity": "hospital",
+        "description": "+22892507822 | +22893764670",
+        "name": "Autel D'elie",
+        "phone": "+22822226313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2441679,
+          6.1408452
+        ]
+      },
+      "id": "node/4328284004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351615282",
+        "amenity": "hospital",
+        "name": "usp Atti Tovou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8686804,
+          6.5507303
+        ]
+      },
+      "id": "node/4351615282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351625229",
+        "amenity": "hospital",
+        "name": "Clinique des Cocotiers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2140953,
+          6.1335117
+        ]
+      },
+      "id": "node/4351625229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4582705789",
+        "amenity": "hospital",
+        "name": "Polyclinique Saint Joseph",
+        "name:fr": "Polyclinique Saint Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2409883,
+          6.1741816
+        ]
+      },
+      "id": "node/4582705789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5170743421",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital d'Anié",
+        "name:en": "Anié Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1966501,
+          7.7564862
+        ]
+      },
+      "id": "node/5170743421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198088758",
+        "amenity": "hospital",
+        "name": "CMS le rocher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1740012,
+          6.2354871
+        ]
+      },
+      "id": "node/5198088758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315000556",
+        "amenity": "hospital",
+        "name": "Infirmerie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1722822,
+          6.1748253
+        ]
+      },
+      "id": "node/5315000556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5516178023",
+        "amenity": "hospital",
+        "name": "Kolowaré"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.289112,
+          8.9547395
+        ]
+      },
+      "id": "node/5516178023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5775782196",
+        "amenity": "hospital",
+        "description": "spécialiste des maladies du coeur, des artères et des veines hypertension artérielle",
+        "name": "Professeur Agree DAMOROU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1808283,
+          6.22373
+        ]
+      },
+      "id": "node/5775782196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5834851637",
+        "addr:street": "35 Rue , Bé Klikame",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS Ste Marie Madeleine",
+        "phone": "+22822331259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2055473,
+          6.1703705
+        ]
+      },
+      "id": "node/5834851637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5837058827",
+        "amenity": "hospital",
+        "name": "polyclinique de tsevie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2118962,
+          6.4205352
+        ]
+      },
+      "id": "node/5837058827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5871234665",
+        "amenity": "hospital",
+        "name": "Centre Médico-social TSO NAKLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2056469,
+          6.4351999
+        ]
+      },
+      "id": "node/5871234665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5979208429",
+        "amenity": "hospital",
+        "name": "MATERNITE BETHEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6374205,
+          6.9057873
+        ]
+      },
+      "id": "node/5979208429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5994363050",
+        "amenity": "hospital",
+        "name": "centre medico social siloe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6245562,
+          6.8960861
+        ]
+      },
+      "id": "node/5994363050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6152351786",
+        "amenity": "hospital",
+        "healthcare": "clinic",
+        "name": "Clinique Chirurgicale de Lomé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1931818,
+          6.1894379
+        ]
+      },
+      "id": "node/6152351786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6332097828",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Sévagan",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4305723,
+          6.3020007
+        ]
+      },
+      "id": "node/6332097828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6640926886",
+        "amenity": "hospital",
+        "name": "USP Goubi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4667024,
+          8.6516271
+        ]
+      },
+      "id": "node/6640926886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053630364",
+        "amenity": "hospital",
+        "name": "Centre Hospitalier Préfectoral de Kpalimé",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6279024,
+          6.9119259
+        ]
+      },
+      "id": "node/7053630364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7057633995",
+        "amenity": "hospital",
+        "name": "Centre de Santé Thérapie Alternative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6382873,
+          6.9144448
+        ]
+      },
+      "id": "node/7057633995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7070272580",
+        "amenity": "hospital",
+        "name": "CMS ALEHERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1449479,
+          8.9847666
+        ]
+      },
+      "id": "node/7070272580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7079728041",
+        "amenity": "hospital",
+        "name": "CHR de Sokodé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1348359,
+          8.9843744
+        ]
+      },
+      "id": "node/7079728041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081976006",
+        "amenity": "hospital",
+        "name": "Centre Médico-humanitaire Santé Solidaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.629027,
+          6.9020971
+        ]
+      },
+      "id": "node/7081976006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081976008",
+        "amenity": "hospital",
+        "name": "Clinique Celidem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6300838,
+          6.9038718
+        ]
+      },
+      "id": "node/7081976008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151418311",
+        "amenity": "hospital",
+        "name": "Dispensaire Palakoko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0951717,
+          7.8371267
+        ]
+      },
+      "id": "node/7151418311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7416976876",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1448741,
+          6.2563345
+        ]
+      },
+      "id": "node/7416976876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501888286",
+        "addr:street": "Afagnagan - Aklokou",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire Agomé Séva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.742768,
+          6.4703157
+        ]
+      },
+      "id": "node/7501888286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501888487",
+        "addr:street": "Afagnagan - Aklakou",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "email": "emilekounke@gmail.com",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Batonou Bas-Mono",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7519651,
+          6.4455986
+        ]
+      },
+      "id": "node/7501888487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501895888",
+        "addr:city": "Agoè",
+        "addr:street": "Voix Express de la CEDEAO",
+        "amenity": "hospital",
+        "email": "cmsshalom.eadt@gmail.com",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "prise_en_charge_médico-sanitaires;general",
+        "name": "Centre Médico social Shalom",
+        "opening_hours": "24/7",
+        "phone": "+228 92454455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1853269,
+          6.2399325
+        ]
+      },
+      "id": "node/7501895888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773626",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Djéta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7341474,
+          6.2692505
+        ]
+      },
+      "id": "node/7625773626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773627",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Centre de santé d'Agbannakin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8026979,
+          6.2905354
+        ]
+      },
+      "id": "node/7625773627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773629",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire d'Atoèta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6683662,
+          6.3042135
+        ]
+      },
+      "id": "node/7625773629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773630",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Mélédjigbé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.643879,
+          6.3355366
+        ]
+      },
+      "id": "node/7625773630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773631",
+        "amenity": "hospital",
+        "healthcare": "nurse",
+        "name": "Unité de Soins Périphérique de Vo koutimé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6129357,
+          6.3267219
+        ]
+      },
+      "id": "node/7625773631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773639",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Centre Médical Social de Glidji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.600745,
+          6.2495738
+        ]
+      },
+      "id": "node/7625773639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773647",
+        "amenity": "hospital",
+        "description": "USP Type 2 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Centre Médical Social de Gbodjomé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4184245,
+          6.1981916
+        ]
+      },
+      "id": "node/7625773647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773648",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Unité de Soin Périphérique de Kpémé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5047964,
+          6.2120027
+        ]
+      },
+      "id": "node/7625773648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773649",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Unité de Soin Périphérique de Goumoukopé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5320644,
+          6.2174736
+        ]
+      },
+      "id": "node/7625773649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773650",
+        "amenity": "hospital",
+        "healthcare": "clinic",
+        "name": "Polyclinique de Vogan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5307192,
+          6.3333026
+        ]
+      },
+      "id": "node/7625773650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773658",
+        "amenity": "hospital",
+        "healthcare": "clinic",
+        "name": "Polyclinique d'Afagnan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6287795,
+          6.4950175
+        ]
+      },
+      "id": "node/7625773658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625773659",
+        "amenity": "hospital",
+        "healthcare": "clinic",
+        "name": "Pomefa Polyclinique Mère et Enfant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5948307,
+          6.2293738
+        ]
+      },
+      "id": "node/7625773659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625894607",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire d'Agouègan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.680935,
+          6.2620198
+        ]
+      },
+      "id": "node/7625894607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625894608",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Séko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7104956,
+          6.2634222
+        ]
+      },
+      "id": "node/7625894608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626112086",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Dzrekpo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5693699,
+          6.4708441
+        ]
+      },
+      "id": "node/7626112086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626112091",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Dagbati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5008559,
+          6.4825375
+        ]
+      },
+      "id": "node/7626112091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626112121",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Zooti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6071716,
+          6.416634
+        ]
+      },
+      "id": "node/7626112121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626112122",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire d'Assankondji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6004661,
+          6.3839044
+        ]
+      },
+      "id": "node/7626112122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626129221",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre Médico-Social d'Agbodrafo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4808691,
+          6.2117168
+        ]
+      },
+      "id": "node/7626129221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626163670",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire d'Agbetiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.711421,
+          6.4960062
+        ]
+      },
+      "id": "node/7626163670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626233517",
+        "amenity": "hospital",
+        "name": "Hôpital Saint Jean d'Afagnan",
+        "operator": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6323173,
+          6.4941248
+        ]
+      },
+      "id": "node/7626233517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626252685",
+        "amenity": "hospital",
+        "description": "USP Type 2 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Centre Médico-Social d'agomé Glozou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6652924,
+          6.5585043
+        ]
+      },
+      "id": "node/7626252685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626334870",
+        "amenity": "hospital",
+        "building": "yes",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "emergency": "yes",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Wogba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5094238,
+          6.2878974
+        ]
+      },
+      "id": "node/7626334870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626334871",
+        "amenity": "hospital",
+        "building": "yes",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "emergency": "yes",
+        "healthcare": "nurse",
+        "name": "Centre Médico-Social d'Akoumapé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4366341,
+          6.3830408
+        ]
+      },
+      "id": "node/7626334871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626334872",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire Hahotoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.41188,
+          6.3689703
+        ]
+      },
+      "id": "node/7626334872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626334873",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Centre de santé d'Atahonou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4972413,
+          6.4228443
+        ]
+      },
+      "id": "node/7626334873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626808830",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire Kpétou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5773267,
+          6.522333
+        ]
+      },
+      "id": "node/7626808830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626808916",
+        "addr:street": "Afagnagan - Aklokou",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Unité de Soins Périphérique de Logowomé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6632056,
+          6.4755281
+        ]
+      },
+      "id": "node/7626808916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626808946",
+        "addr:street": "Afagnagan - Aklokou",
+        "amenity": "hospital",
+        "description": "USP Type 1 (Classification centre de santé au Togo)",
+        "healthcare": "nurse",
+        "name": "Dispensaire de Masséda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6738607,
+          6.4465949
+        ]
+      },
+      "id": "node/7626808946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7649509619",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS A.DE.S.CO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1382402,
+          9.0043081
+        ]
+      },
+      "id": "node/7649509619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7699708568",
+        "amenity": "hospital",
+        "description": "USP Type 2 (Classification centre de santé au Togo)",
+        "healthcare": "clinic",
+        "name": "CMS Attitogon",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.663701,
+          6.421208
+        ]
+      },
+      "id": "node/7699708568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7728938544",
+        "amenity": "hospital",
+        "name": "CMS San Marino Anyonkopé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5543735,
+          6.2689276
+        ]
+      },
+      "id": "node/7728938544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7810011842",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "centre de santé communautaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2050588,
+          6.176641
+        ]
+      },
+      "id": "node/7810011842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7845108078",
+        "amenity": "hospital",
+        "name": "USP Awandjelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2117613,
+          9.4527579
+        ]
+      },
+      "id": "node/7845108078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7925740785",
+        "amenity": "hospital",
+        "name": "CMS Soeur PURA PAGANI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1450737,
+          6.1773345
+        ]
+      },
+      "id": "node/7925740785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147257145",
+        "amenity": "hospital",
+        "name": "USP de Binaparba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7658865,
+          9.2328628
+        ]
+      },
+      "id": "node/8147257145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147264210",
+        "amenity": "hospital",
+        "fixme": "no building at this location, please confirm",
+        "healthcare": "hospital",
+        "name": "USP de Tindjassi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4539785,
+          8.6473246
+        ]
+      },
+      "id": "node/8147264210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147270417",
+        "amenity": "hospital",
+        "name": "USP de Djarkpanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56188,
+          8.7780329
+        ]
+      },
+      "id": "node/8147270417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213082831",
+        "amenity": "hospital",
+        "name": "Dispensaire de Doufouli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9308115,
+          8.3081852
+        ]
+      },
+      "id": "node/8213082831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8220120059",
+        "amenity": "hospital",
+        "name": "USP Pya-Hodo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1721769,
+          9.6688386
+        ]
+      },
+      "id": "node/8220120059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8220148229",
+        "amenity": "hospital",
+        "name": "Dispensaire Pya Pittah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1651531,
+          9.6797878
+        ]
+      },
+      "id": "node/8220148229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222064514",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre Médical des familles de Dapaong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199755,
+          10.8814974
+        ]
+      },
+      "id": "node/8222064514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8317044574",
+        "amenity": "hospital",
+        "name": "Unité de Soins Périphérique de Tcharè-Baou",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0143082,
+          8.0638864
+        ]
+      },
+      "id": "node/8317044574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350297569",
+        "amenity": "hospital",
+        "name": "USP Kémérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3540408,
+          9.6642497
+        ]
+      },
+      "id": "node/8350297569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350514765",
+        "amenity": "hospital",
+        "name": "Cms Kétao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3138875,
+          9.6623347
+        ]
+      },
+      "id": "node/8350514765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350534341",
+        "amenity": "hospital",
+        "name": "Hôpital des soeurs Catholique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3090186,
+          9.6649227
+        ]
+      },
+      "id": "node/8350534341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8362853835",
+        "amenity": "hospital",
+        "name": "USP Lassa Bas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2368014,
+          9.5932179
+        ]
+      },
+      "id": "node/8362853835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8362853854",
+        "amenity": "hospital",
+        "name": "Dispensaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2235446,
+          9.6075334
+        ]
+      },
+      "id": "node/8362853854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8362853869",
+        "amenity": "hospital",
+        "name": "USP Lassa Hounde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2048925,
+          9.6441801
+        ]
+      },
+      "id": "node/8362853869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8370363763",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0966815,
+          9.2740087
+        ]
+      },
+      "id": "node/8370363763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8370482158",
+        "amenity": "hospital",
+        "name": "Hoital d'Alédjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2119776,
+          9.2595219
+        ]
+      },
+      "id": "node/8370482158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8370482164",
+        "amenity": "hospital",
+        "name": "CMS D'Alédjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2077853,
+          9.2567674
+        ]
+      },
+      "id": "node/8370482164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8370486621",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1847733,
+          9.2892176
+        ]
+      },
+      "id": "node/8370486621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8375147533",
+        "amenity": "hospital",
+        "name": "Hôpital de l'amitié"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0472175,
+          8.6425363
+        ]
+      },
+      "id": "node/8375147533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8413675209",
+        "amenity": "hospital",
+        "name": "USP Komondè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2375652,
+          9.2952779
+        ]
+      },
+      "id": "node/8413675209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8427564215",
+        "amenity": "hospital",
+        "name": "CMS de Kpadapé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5916269,
+          6.8412109
+        ]
+      },
+      "id": "node/8427564215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8427574840",
+        "amenity": "hospital",
+        "name": "Dispensaire de GBALAVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6012708,
+          6.8643994
+        ]
+      },
+      "id": "node/8427574840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430049309",
+        "amenity": "hospital",
+        "name": "CMS Kovié"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1074828,
+          6.3397459
+        ]
+      },
+      "id": "node/8430049309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8448779571",
+        "amenity": "hospital",
+        "name": "CHP de Niamtougou",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1090438,
+          9.7624666
+        ]
+      },
+      "id": "node/8448779571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567008708",
+        "amenity": "hospital",
+        "name": "USP Yokele"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6590027,
+          6.9348008
+        ]
+      },
+      "id": "node/8567008708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567159674",
+        "amenity": "hospital",
+        "name": "USP Médécin d'Afrique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.58434,
+          6.4239112
+        ]
+      },
+      "id": "node/8567159674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567159710",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6065373,
+          6.3684812
+        ]
+      },
+      "id": "node/8567159710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567164739",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5668164,
+          6.3717639
+        ]
+      },
+      "id": "node/8567164739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8570246809",
+        "amenity": "hospital",
+        "name": "CMS D'EDZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.870291,
+          6.3879481
+        ]
+      },
+      "id": "node/8570246809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8570257220",
+        "amenity": "hospital",
+        "name": "CMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8879399,
+          6.3754238
+        ]
+      },
+      "id": "node/8570257220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8570257247",
+        "amenity": "hospital",
+        "name": "CMS Apedokoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8972526,
+          6.4428636
+        ]
+      },
+      "id": "node/8570257247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8591785617",
+        "amenity": "hospital",
+        "name": "CHU KARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1829227,
+          9.5560002
+        ]
+      },
+      "id": "node/8591785617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8631441824",
+        "amenity": "hospital",
+        "name": "Dispensaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7798228,
+          6.8654273
+        ]
+      },
+      "id": "node/8631441824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8631441848",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8443058,
+          6.8888436
+        ]
+      },
+      "id": "node/8631441848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8640050492",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;gynaecology;outpatient",
+        "name": "Dispensaire de Sivame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7167064,
+          6.2930673
+        ]
+      },
+      "id": "node/8640050492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8654069329",
+        "amenity": "hospital",
+        "name": "Case de Santé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7527304,
+          6.8516395
+        ]
+      },
+      "id": "node/8654069329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8654069335",
+        "amenity": "hospital",
+        "name": "USP Kebo Dzigbé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7481338,
+          6.868758
+        ]
+      },
+      "id": "node/8654069335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8654100463",
+        "amenity": "hospital",
+        "name": "Dispensaire Agou Kebo Toé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7470321,
+          6.854884
+        ]
+      },
+      "id": "node/8654100463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8654492281",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7336787,
+          6.8691501
+        ]
+      },
+      "id": "node/8654492281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8654492285",
+        "amenity": "hospital",
+        "name": "USP KEBO KPETA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7380192,
+          6.8662595
+        ]
+      },
+      "id": "node/8654492285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8668466202",
+        "amenity": "hospital",
+        "name": "Polyclinique Melia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1756116,
+          6.1863484
+        ]
+      },
+      "id": "node/8668466202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8755701164",
+        "amenity": "hospital",
+        "name": "Centre médico sociale de la police nationale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2348367,
+          6.1517983
+        ]
+      },
+      "id": "node/8755701164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8755702202",
+        "amenity": "hospital",
+        "name": "CMS nukafu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2194924,
+          6.1461803
+        ]
+      },
+      "id": "node/8755702202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8755707943",
+        "amenity": "hospital",
+        "name": "Cabinet médical La Gloire de Dieu",
+        "phone": "+22892883455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2380718,
+          6.157042
+        ]
+      },
+      "id": "node/8755707943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8755709687",
+        "amenity": "hospital",
+        "name": "Cabinet médical Espoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2334824,
+          6.1555963
+        ]
+      },
+      "id": "node/8755709687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8772751289",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre Hospitalier Préfectoral De Tchamba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4291051,
+          9.0232826
+        ]
+      },
+      "id": "node/8772751289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8791863137",
+        "amenity": "hospital",
+        "name": "Dispensaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0335705,
+          8.2696667
+        ]
+      },
+      "id": "node/8791863137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8797784719",
+        "amenity": "hospital",
+        "name": "USP Idondjoag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3295483,
+          10.9920197
+        ]
+      },
+      "id": "node/8797784719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8798036560",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Katindi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2773914,
+          10.8925453
+        ]
+      },
+      "id": "node/8798036560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8798152534",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3083682,
+          10.9077688
+        ]
+      },
+      "id": "node/8798152534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8808692839",
+        "amenity": "hospital",
+        "name": "USP Sanfatoute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3028657,
+          10.9992788
+        ]
+      },
+      "id": "node/8808692839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8808719667",
+        "amenity": "hospital",
+        "name": "USP Yebouate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2980886,
+          11.0406195
+        ]
+      },
+      "id": "node/8808719667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809422665",
+        "amenity": "hospital",
+        "name": "USP Boade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0779551,
+          11.1156176
+        ]
+      },
+      "id": "node/8809422665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8823716804",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Larini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4145327,
+          9.0332711
+        ]
+      },
+      "id": "node/8823716804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8853935125",
+        "amenity": "hospital",
+        "name": "Ophtamologue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0129303,
+          11.1083154
+        ]
+      },
+      "id": "node/8853935125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8853935165",
+        "amenity": "hospital",
+        "name": "CMS le Secours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.013753,
+          11.0996278
+        ]
+      },
+      "id": "node/8853935165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8853935177",
+        "amenity": "hospital",
+        "name": "Hopital de Cinkassé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0177214,
+          11.1019756
+        ]
+      },
+      "id": "node/8853935177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8854640115",
+        "amenity": "hospital",
+        "name": "Dispensaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0125849,
+          8.3473934
+        ]
+      },
+      "id": "node/8854640115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8854644941",
+        "amenity": "hospital",
+        "name": "USP Yaloumbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0758273,
+          8.3037082
+        ]
+      },
+      "id": "node/8854644941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8854644954",
+        "amenity": "hospital",
+        "name": "USP Tchaloudè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1159599,
+          8.2610055
+        ]
+      },
+      "id": "node/8854644954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855277028",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4582098,
+          6.3362084
+        ]
+      },
+      "id": "node/8855277028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855277042",
+        "amenity": "hospital",
+        "name": "Centre de Santé de Sagada kope"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4918178,
+          6.3663646
+        ]
+      },
+      "id": "node/8855277042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855277062",
+        "amenity": "hospital",
+        "name": "USP Apawohonou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5173753,
+          6.4022126
+        ]
+      },
+      "id": "node/8855277062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855277077",
+        "amenity": "hospital",
+        "name": "Centre de Santé Atahonou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5158585,
+          6.4128864
+        ]
+      },
+      "id": "node/8855277077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855298744",
+        "amenity": "hospital",
+        "name": "USP Atchave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6427713,
+          6.8294025
+        ]
+      },
+      "id": "node/8855298744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855298749",
+        "amenity": "hospital",
+        "name": "USP Tome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6654668,
+          6.8108012
+        ]
+      },
+      "id": "node/8855298749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855298752",
+        "amenity": "hospital",
+        "name": "Dispansaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6320062,
+          6.8088863
+        ]
+      },
+      "id": "node/8855298752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855298767",
+        "amenity": "hospital",
+        "name": "USP Hanyigban duga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.608443,
+          6.9052318
+        ]
+      },
+      "id": "node/8855298767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8871169824",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1954713,
+          6.1849635
+        ]
+      },
+      "id": "node/8871169824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8872015393",
+        "amenity": "hospital",
+        "name": "Dispensaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1126767,
+          6.4033229
+        ]
+      },
+      "id": "node/8872015393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8872015408",
+        "amenity": "hospital",
+        "name": "Dispensaire saint Savin de wli centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1628368,
+          6.4091974
+        ]
+      },
+      "id": "node/8872015408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8872050241",
+        "amenity": "hospital",
+        "name": "Dispensaire d'Alokoegbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0864858,
+          6.4429129
+        ]
+      },
+      "id": "node/8872050241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8872050254",
+        "amenity": "hospital",
+        "name": "Case de Santé de meduimé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0937351,
+          6.410237
+        ]
+      },
+      "id": "node/8872050254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8872050275",
+        "amenity": "hospital",
+        "name": "Case de Santé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.06835,
+          6.4780352
+        ]
+      },
+      "id": "node/8872050275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8912040242",
+        "amenity": "hospital",
+        "name": "Centre Médico-social D'Agbélouvé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1618243,
+          6.6709469
+        ]
+      },
+      "id": "node/8912040242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8919847656",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1681718,
+          9.5463294
+        ]
+      },
+      "id": "node/8919847656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8939306520",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinique Ma Vie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1908317,
+          9.5536654
+        ]
+      },
+      "id": "node/8939306520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8946799894",
+        "amenity": "hospital",
+        "name": "USP Bontigah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1015424,
+          9.7670552
+        ]
+      },
+      "id": "node/8946799894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8983050310",
+        "amenity": "hospital",
+        "name": "USP Lokpano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1139817,
+          10.61106
+        ]
+      },
+      "id": "node/8983050310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8994509039",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Kwanpit-bong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.381425,
+          10.9384767
+        ]
+      },
+      "id": "node/8994509039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8999635315",
+        "amenity": "hospital",
+        "name": "USP Papri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4241017,
+          10.984535
+        ]
+      },
+      "id": "node/8999635315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9023202280",
+        "amenity": "hospital",
+        "name": "Centre médico social Dadh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1781675,
+          6.170083
+        ]
+      },
+      "id": "node/9023202280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9026845948",
+        "amenity": "hospital",
+        "name": "USP Biankouri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0528624,
+          11.0165824
+        ]
+      },
+      "id": "node/9026845948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9026863311",
+        "amenity": "hospital",
+        "name": "USP Baoule"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5774211,
+          10.2590768
+        ]
+      },
+      "id": "node/9026863311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9051879093",
+        "amenity": "hospital",
+        "name": "Case de santé d' Atidè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0693654,
+          6.2980446
+        ]
+      },
+      "id": "node/9051879093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053009386",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS Kountong-Bong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2244671,
+          10.8912279
+        ]
+      },
+      "id": "node/9053009386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053186915",
+        "amenity": "hospital",
+        "name": "USP WOMETCHIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0072607,
+          6.4814312
+        ]
+      },
+      "id": "node/9053186915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053199519",
+        "amenity": "hospital",
+        "name": "Case de santé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9802669,
+          6.4650754
+        ]
+      },
+      "id": "node/9053199519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053199527",
+        "amenity": "hospital",
+        "name": "USP ZOGBEPIME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9810823,
+          6.4463191
+        ]
+      },
+      "id": "node/9053199527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053455705",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7250769,
+          6.880622
+        ]
+      },
+      "id": "node/9053455705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053482633",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7688602,
+          6.8241271
+        ]
+      },
+      "id": "node/9053482633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053482641",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.751335,
+          6.828802
+        ]
+      },
+      "id": "node/9053482641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053482643",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7794124,
+          6.8905918
+        ]
+      },
+      "id": "node/9053482643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053536605",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7149991,
+          6.8404879
+        ]
+      },
+      "id": "node/9053536605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053559724",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7575376,
+          6.7487201
+        ]
+      },
+      "id": "node/9053559724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053732024",
+        "amenity": "hospital",
+        "name": "CMS Association un jour nouveau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0159839,
+          8.6555051
+        ]
+      },
+      "id": "node/9053732024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9059387094",
+        "amenity": "hospital",
+        "name": "USP Tanikagou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1913581,
+          10.9643027
+        ]
+      },
+      "id": "node/9059387094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9061988233",
+        "amenity": "hospital",
+        "name": "USP Margba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2563716,
+          11.0042062
+        ]
+      },
+      "id": "node/9061988233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9062017602",
+        "amenity": "hospital",
+        "name": "USP Bougou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2579107,
+          10.9899144
+        ]
+      },
+      "id": "node/9062017602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9062822280",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Tchiègle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2665268,
+          11.0425777
+        ]
+      },
+      "id": "node/9062822280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9066903973",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1328015,
+          10.8300408
+        ]
+      },
+      "id": "node/9066903973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9070360356",
+        "amenity": "hospital",
+        "name": "USP Tami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0431992,
+          10.8643777
+        ]
+      },
+      "id": "node/9070360356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074202995",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1889724,
+          11.0080387
+        ]
+      },
+      "id": "node/9074202995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9079786915",
+        "amenity": "hospital",
+        "name": "USP Nanergou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1493738,
+          10.91214
+        ]
+      },
+      "id": "node/9079786915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9084228735",
+        "amenity": "hospital",
+        "name": "USP Warkanbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0132118,
+          10.8065321
+        ]
+      },
+      "id": "node/9084228735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9087839962",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "USP Korbongou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3087971,
+          10.9107879
+        ]
+      },
+      "id": "node/9087839962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9095143743",
+        "amenity": "hospital",
+        "name": "CMS Djidjolé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1924726,
+          6.1861313
+        ]
+      },
+      "id": "node/9095143743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9103811710",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre de santé Maguy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1878933,
+          10.8670066
+        ]
+      },
+      "id": "node/9103811710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9114127133",
+        "amenity": "hospital",
+        "name": "USP Pligou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.288235,
+          10.6509778
+        ]
+      },
+      "id": "node/9114127133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9114431397",
+        "amenity": "hospital",
+        "name": "USP Tanabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2817029,
+          10.6234296
+        ]
+      },
+      "id": "node/9114431397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9120160754",
+        "amenity": "hospital",
+        "name": "CMS Nano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1057782,
+          10.7072604
+        ]
+      },
+      "id": "node/9120160754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9126086020",
+        "amenity": "hospital",
+        "name": "USP KPINZINDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2924649,
+          9.4941994
+        ]
+      },
+      "id": "node/9126086020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9126708939",
+        "amenity": "hospital",
+        "name": "CHP Kpendjal-Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3827182,
+          10.7283174
+        ]
+      },
+      "id": "node/9126708939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9129294251",
+        "amenity": "hospital",
+        "name": "USP Ogaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4602033,
+          10.7432739
+        ]
+      },
+      "id": "node/9129294251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9145262927",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4040447,
+          10.2453859
+        ]
+      },
+      "id": "node/9145262927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160643484",
+        "amenity": "hospital",
+        "name": "USP Takpapieni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8689099,
+          10.2547525
+        ]
+      },
+      "id": "node/9160643484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9164699518",
+        "amenity": "hospital",
+        "name": "CMS ELAVAGNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.172807,
+          6.2092382
+        ]
+      },
+      "id": "node/9164699518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9165161075",
+        "amenity": "hospital",
+        "name": "USP Tchamonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7308933,
+          10.5617014
+        ]
+      },
+      "id": "node/9165161075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9210423865",
+        "amenity": "hospital",
+        "name": "USP Takpanba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5746251,
+          9.9692847
+        ]
+      },
+      "id": "node/9210423865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9223987060",
+        "amenity": "hospital",
+        "name": "USP Nagbeni",
+        "wikidata": "Q115942295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3975592,
+          10.6104044
+        ]
+      },
+      "id": "node/9223987060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254454975",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS Barkoissi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.30123,
+          10.5490017
+        ]
+      },
+      "id": "node/9254454975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9263461431",
+        "amenity": "hospital",
+        "name": "CMS KAZABOUA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.070786,
+          8.428305
+        ]
+      },
+      "id": "node/9263461431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9270106320",
+        "amenity": "hospital",
+        "name": "Unité de Soins Périphériques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0722857,
+          8.8461539
+        ]
+      },
+      "id": "node/9270106320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9275288719",
+        "amenity": "hospital",
+        "name": "CMS ADJENGRÉ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0048328,
+          8.6669098
+        ]
+      },
+      "id": "node/9275288719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9275291318",
+        "amenity": "hospital",
+        "name": "Hôpital de KOUSSOUNTOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5191008,
+          8.8290512
+        ]
+      },
+      "id": "node/9275291318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9275291320",
+        "amenity": "hospital",
+        "name": "Dispensaire de AGOULOUDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3286596,
+          9.1183911
+        ]
+      },
+      "id": "node/9275291320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9275917829",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital de Kouma-Apéyémé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5579504,
+          6.9771526
+        ]
+      },
+      "id": "node/9275917829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9287183928",
+        "amenity": "hospital",
+        "name": "USP Kerekete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2315919,
+          10.4994658
+        ]
+      },
+      "id": "node/9287183928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9290874206",
+        "amenity": "hospital",
+        "name": "CMS d'adidogomé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1681659,
+          6.1841029
+        ]
+      },
+      "id": "node/9290874206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9297544491",
+        "amenity": "hospital",
+        "name": "CHR Amlamé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9102512,
+          7.4731472
+        ]
+      },
+      "id": "node/9297544491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9297575830",
+        "amenity": "hospital",
+        "name": "Hôpital Notre Dame d'Ayome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9598245,
+          7.4935609
+        ]
+      },
+      "id": "node/9297575830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9320223910",
+        "amenity": "hospital",
+        "description": "yendube@yahoo.fr",
+        "name": "Association Hopital d'Enfants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1993001,
+          10.8748628
+        ]
+      },
+      "id": "node/9320223910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9346840654",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hôpital de Tado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5953095,
+          7.1444203
+        ]
+      },
+      "id": "node/9346840654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355947181",
+        "amenity": "hospital",
+        "name": "USP Badougbé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5132029,
+          6.2378848
+        ]
+      },
+      "id": "node/9355947181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9360316019",
+        "amenity": "hospital",
+        "name": "Usp de Kéta-akoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.556337,
+          6.2466873
+        ]
+      },
+      "id": "node/9360316019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415658319",
+        "amenity": "hospital",
+        "name": "Centre de santé de BAGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1012488,
+          9.792586
+        ]
+      },
+      "id": "node/9415658319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9433135067",
+        "amenity": "hospital",
+        "name": "Dispensaire Esse Zogbédji - Nadje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3385639,
+          6.5837738
+        ]
+      },
+      "id": "node/9433135067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9625732766",
+        "amenity": "hospital",
+        "name": "Centre Médico-social La Confiance",
+        "phone": "+22899484922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1551112,
+          6.1895411
+        ]
+      },
+      "id": "node/9625732766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9654130904",
+        "amenity": "hospital",
+        "name": "Centre Médical de Pedakondji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5348491,
+          6.3184064
+        ]
+      },
+      "id": "node/9654130904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9743635884",
+        "amenity": "hospital",
+        "name": "CMS Dzolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8888628,
+          6.3719528
+        ]
+      },
+      "id": "node/9743635884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9868185346",
+        "amenity": "hospital",
+        "name": "USP Kagnikada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3151467,
+          9.7133767
+        ]
+      },
+      "id": "node/9868185346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899701973",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dispensaire de Naki-Ouest",
+        "source": "Knowledge;Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0935796,
+          10.9092805
+        ]
+      },
+      "id": "node/9899701973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903516893",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;paediatrics",
+        "name": "Cms Amoutivé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2298201,
+          6.1402173
+        ]
+      },
+      "id": "node/9903516893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10008519781",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CMS de Timbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1152997,
+          11.0330982
+        ]
+      },
+      "id": "node/10008519781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10023579262",
+        "amenity": "hospital",
+        "description": "Médecine Générale\nConsultation prénatale\nAccouchement\nLaboratoire d'Analyse Médicale\nPlanification Familiale\nÉchographie",
+        "name": "CMS Mont Des Oliviers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.504527,
+          6.5944102
+        ]
+      },
+      "id": "node/10023579262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10196896228",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "DISPENSAIRE DE MISSIOBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8841101,
+          6.8232538
+        ]
+      },
+      "id": "node/10196896228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10199494145",
+        "amenity": "hospital",
+        "name": "Dispensaire d'Alokoègbé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0870255,
+          6.4427153
+        ]
+      },
+      "id": "node/10199494145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10248618309",
+        "amenity": "hospital",
+        "name": "CMS JOSEPH NASCINBENI DE TODOME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.497055,
+          6.5021051
+        ]
+      },
+      "id": "node/10248618309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10284808771",
+        "amenity": "hospital",
+        "name": "Dispensaire de Sewove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2658647,
+          6.2888104
+        ]
+      },
+      "id": "node/10284808771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10562957623",
+        "amenity": "hospital",
+        "name": "USP Kuma dunyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5981092,
+          6.9859248
+        ]
+      },
+      "id": "node/10562957623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564939822",
+        "amenity": "hospital",
+        "name": "Dispensaire de Nyitoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.650374,
+          6.6603381
+        ]
+      },
+      "id": "node/10564939822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10567694868",
+        "amenity": "hospital",
+        "name": "USP Nyitoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6629,
+          6.6579332
+        ]
+      },
+      "id": "node/10567694868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10598913495",
+        "amenity": "hospital",
+        "name": "USP Aképé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.03382,
+          6.265095
+        ]
+      },
+      "id": "node/10598913495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10798927376",
+        "amenity": "hospital",
+        "description": "Location, Near N1",
+        "name": "Dogta Lafie",
+        "opening_hours": "Mo-Su 07:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2108117,
+          6.2456075
+        ]
+      },
+      "id": "node/10798927376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10798932739",
+        "amenity": "hospital",
+        "description": "Location, Near N1",
+        "name": "Docta Lafia",
+        "opening_hours": "Mo-Su 07:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2108117,
+          6.2456075
+        ]
+      },
+      "id": "node/10798932739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10800068016",
+        "amenity": "hospital",
+        "description": "Centre d'écoute, d'orientation et de soins des personnes âgées",
+        "name": "Centre médicaux social gériatrique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2159457,
+          6.2346895
+        ]
+      },
+      "id": "node/10800068016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10800072150",
+        "amenity": "hospital",
+        "name": "Cabinet médical spécialisé ORL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2127343,
+          6.2155137
+        ]
+      },
+      "id": "node/10800072150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716918",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene petite_chirurgie, Vaccination, nutrition control promotion croissance, planification familliale",
+        "name": "Center medical social Tokoin elavagnon",
+        "phone": "+22822217193",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2258978,
+          6.1474526
+        ]
+      },
+      "id": "node/10830716918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716922",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene, Pharmacie,",
+        "name": "CMS Miséricorde Jean Jacques BAZIN",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2332184,
+          6.2064735
+        ]
+      },
+      "id": "node/10830716922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716924",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: mede_gene cpn pediatrie",
+        "name": "Cms fat",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "3",
+        "staff_count:nurses": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2215493,
+          6.1502099
+        ]
+      },
+      "id": "node/10830716924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716927",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: imagerie_medicale, pediatrie ,petite_chirurgie, mede_gene, cpn ,Laboratoire,Test COVID",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Centre Hospitalier Régional Lomé Commune",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "14",
+        "staff_count:nurses": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2367265,
+          6.1917475
+        ]
+      },
+      "id": "node/10830716927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716929",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: mede_gene cpn petite_chirurgie",
+        "name": "CMS Doumassesse",
+        "phone": "+22822330478",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2173175,
+          6.160024
+        ]
+      },
+      "id": "node/10830716929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716937",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene, petite_chirurgie, Genicologie, pediatrie, imagerie_medicale",
+        "emergency": "yes",
+        "name": "Docteur KALAO Assima",
+        "source": "WNA Hb - Mia Tou Togo project"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2123973,
+          6.1791705
+        ]
+      },
+      "id": "node/10830716937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716938",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: petite_chirurgie, Consultation ophtalmologique, opération ophtalmologique",
+        "name": "Centre ophtalmologie Jean Paul II",
+        "phone": "+22890097335",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "2",
+        "staff_count:nurses": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2108467,
+          6.1633006
+        ]
+      },
+      "id": "node/10830716938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716939",
+        "addr:municipality": "Golfe 3",
+        "amenity": "hospital",
+        "description": "Service offertes: mede_gene petite_chirurgie, Vaccination, prise en charge des personnes vivant avec le VIH sida",
+        "name": "Centre d'accueil et de promotion de santé Jean Paul 2",
+        "phone": "+22890097335",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "2",
+        "staff_count:nurses": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2105198,
+          6.1629836
+        ]
+      },
+      "id": "node/10830716939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716943",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn mede_gene Genicologie pediatrie",
+        "name": "Ana maria",
+        "phone": "+22890907723",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1284114,
+          7.5249642
+        ]
+      },
+      "id": "node/10830716943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716944",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: mede_gene, petite_chirurgie, Prise en charge des PVVIH",
+        "name": "CMS AKARALE",
+        "phone": "+22890321561",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:nurses": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1198382,
+          7.5308035
+        ]
+      },
+      "id": "node/10830716944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716945",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene, petite_chirurgie, Échographie, laboratoire",
+        "name": "CMS Agbonou",
+        "phone": "+22890784007",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1504532,
+          7.514961
+        ]
+      },
+      "id": "node/10830716945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716947",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene, petite_chirurgie, Genicologie, pediatrie, imagerie_medicale, Cardiologie, Traumatologie, ORL, laboratoire, kinésithérapie, Appareillage Orthopédique",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "CHR Atakpame",
+        "phone": "+22893080244",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "10",
+        "staff_count:nurses": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1263696,
+          7.5324474
+        ]
+      },
+      "id": "node/10830716947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716948",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene, petite_chirurgie, Genicologie, pediatrie, Vaccination, planification familial",
+        "healthcare": "hospital",
+        "name": "USP Awagome",
+        "phone": "+22890035353",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1816487,
+          7.6444925
+        ]
+      },
+      "id": "node/10830716948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716950",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: petite_chirurgie, Infirmerie-Accouchement",
+        "healthcare": "hospital",
+        "name": "CMS La Vie / usp Iko Tadi",
+        "phone": "+22893147005",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1981075,
+          7.4931652
+        ]
+      },
+      "id": "node/10830716950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716951",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, petite_chirurgie, Infirmerie-Acouchement",
+        "healthcare": "hospital",
+        "name": "Saint sauveur",
+        "phone": "+22890276334",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.175085,
+          7.5051929
+        ]
+      },
+      "id": "node/10830716951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716952",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene, petite_chirurgie",
+        "name": "ODIAE",
+        "phone": "+22824400338",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1295954,
+          7.5244397
+        ]
+      },
+      "id": "node/10830716952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716954",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn mede_gene petite_chirurgie Genicologie pediatrie",
+        "healthcare": "hospital",
+        "name": "USP BOCCO",
+        "phone": "+22899810499",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2121958,
+          7.5862513
+        ]
+      },
+      "id": "node/10830716954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716956",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn, mede_gene, petite_chirurgie, Vaccination, planification familiale",
+        "name": "CMS Bon Secours Agbonou",
+        "phone": "+22892334285",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1491775,
+          7.5253002
+        ]
+      },
+      "id": "node/10830716956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716957",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn mede_gene petite_chirurgie",
+        "name": "CMS Anana Maria",
+        "phone": "+22824400677",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "1",
+        "staff_count:nurses": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1485215,
+          7.5255835
+        ]
+      },
+      "id": "node/10830716957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716959",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: mede_gene petite_chirurgie cpn",
+        "name": "Centre medico social Bon secours",
+        "source": "WNA Hb - Mia Tou Togo project"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1492749,
+          7.5250623
+        ]
+      },
+      "id": "node/10830716959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716961",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: cpn mede_gene, petite_chirurgie, Biologie, accouchement,prise en charge avec les personnes vivant avec le VIH, dispensation ARV, sensibilisation communautaires,lutte contre la discrimination et la stigmatisation des PVVIH .....",
+        "name": "Jean Baptiste",
+        "phone": "+22890203925",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1573408,
+          7.4965715
+        ]
+      },
+      "id": "node/10830716961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830716962",
+        "addr:municipality": "Ogou 1",
+        "amenity": "hospital",
+        "description": "Service offertes: petite_chirurgie, Infirmerie",
+        "name": "CMS D'AGBOFON",
+        "phone": "+22893495916",
+        "source": "WNA Hb - Mia Tou Togo project",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.135327,
+          7.5060028
+        ]
+      },
+      "id": "node/10830716962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10941339133",
+        "amenity": "hospital",
+        "name": "USP Gbadi N'kougna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7095367,
+          7.460659
+        ]
+      },
+      "id": "node/10941339133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10943910745",
+        "amenity": "hospital",
+        "name": "Centre Medico Social de Tchebebe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9918678,
+          8.4353557
+        ]
+      },
+      "id": "node/10943910745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11182658303",
+        "amenity": "hospital",
+        "name": "CICL Centre international de cancérologie de Lomé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1610954,
+          6.1986956
+        ]
+      },
+      "id": "node/11182658303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11203861438",
+        "addr:street": "Sokodé - Bowounda",
+        "amenity": "hospital",
+        "name": "USP NADA",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1598138,
+          8.9914833
+        ]
+      },
+      "id": "node/11203861438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11205769237",
+        "addr:street": "Lomé - Cinkassé",
+        "amenity": "hospital",
+        "name": "USP AMAÏDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1928961,
+          9.1817369
+        ]
+      },
+      "id": "node/11205769237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11205769437",
+        "amenity": "hospital",
+        "name": "CMS Amis du Bien Être (ABE)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1681111,
+          6.9512376
+        ]
+      },
+      "id": "node/11205769437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11263077348",
+        "amenity": "hospital",
+        "description": "centre de santé mentale Paul-Louis-Rénée",
+        "name": "Sœurs hospitalières NDC",
+        "opening_hours": "Mo-Fr 07:30-17:00",
+        "phone": "22477094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2486307,
+          6.2037015
+        ]
+      },
+      "id": "node/11263077348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11274580328",
+        "amenity": "hospital",
+        "name": "CMS Berceau d'Adétikopé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2168912,
+          6.3214701
+        ]
+      },
+      "id": "node/11274580328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11274601028",
+        "amenity": "hospital",
+        "name": "Clinique médicale L'ÉTERNEL NOTRE GUIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2162405,
+          6.3173208
+        ]
+      },
+      "id": "node/11274601028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11412497270",
+        "amenity": "hospital",
+        "name": "USP AFFEM KABYE",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5073461,
+          9.14194
+        ]
+      },
+      "id": "node/11412497270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11571217255",
+        "amenity": "hospital",
+        "name": "Dispensaire de Wounougba Seva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.885711,
+          6.7423457
+        ]
+      },
+      "id": "node/11571217255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11571249140",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9112696,
+          6.4543096
+        ]
+      },
+      "id": "node/11571249140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11662744125",
+        "amenity": "hospital",
+        "name": "Centre Medico social d'Attitogon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6614882,
+          6.4177623
+        ]
+      },
+      "id": "node/11662744125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11732333495",
+        "amenity": "hospital",
+        "name": "USP Yoto Kopé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3147855,
+          6.7389597
+        ]
+      },
+      "id": "node/11732333495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11772375909",
+        "amenity": "hospital",
+        "name": "USP de Kolo Copé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2879515,
+          7.7961466
+        ]
+      },
+      "id": "node/11772375909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11772383430",
+        "amenity": "hospital",
+        "name": "USP AYAGBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7934517,
+          7.7661292
+        ]
+      },
+      "id": "node/11772383430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11772430804",
+        "amenity": "hospital",
+        "name": "Dispensaire Evou Apégamé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0244332,
+          7.547877
+        ]
+      },
+      "id": "node/11772430804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11818209730",
+        "amenity": "hospital",
+        "name": "Chp de atalote"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0375542,
+          9.9390489
+        ]
+      },
+      "id": "node/11818209730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11866819969",
+        "addr:street": "Lomé - Cinkassé",
+        "amenity": "hospital",
+        "name": "USP Kolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.143825,
+          9.1066962
+        ]
+      },
+      "id": "node/11866819969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11866820270",
+        "amenity": "hospital",
+        "name": "CMS Sanda Kagbanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8955282,
+          9.4856582
+        ]
+      },
+      "id": "node/11866820270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11954041346",
+        "amenity": "hospital",
+        "name": "Polyclinique Elavagnon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27946,
+          7.9443552
+        ]
+      },
+      "id": "node/11954041346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11959781971",
+        "amenity": "hospital",
+        "name": "Dispensaire de Dzagblé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2839034,
+          6.2638968
+        ]
+      },
+      "id": "node/11959781971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12046047626",
+        "amenity": "hospital",
+        "name": "Poste de Secours Médical",
+        "phone": "99261111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0445437,
+          6.2765078
+        ]
+      },
+      "id": "node/12046047626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12050797288",
+        "amenity": "hospital",
+        "name": "USP Yakedji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4873135,
+          9.0343381
+        ]
+      },
+      "id": "node/12050797288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12050816130",
+        "amenity": "hospital",
+        "name": "USP GMASSIDJOUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5497985,
+          9.0632994
+        ]
+      },
+      "id": "node/12050816130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12050828373",
+        "amenity": "hospital",
+        "name": "USP Kalanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7045612,
+          9.2642755
+        ]
+      },
+      "id": "node/12050828373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12050828574",
+        "amenity": "hospital",
+        "name": "USP Bikpassiba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7573571,
+          9.2526143
+        ]
+      },
+      "id": "node/12050828574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12089539791",
+        "amenity": "hospital",
+        "name": "Centre communautaire de santé de Tsogba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3501627,
+          6.9981531
+        ]
+      },
+      "id": "node/12089539791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12089541599",
+        "amenity": "hospital",
+        "name": "Centre de santé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9370755,
+          7.1713642
+        ]
+      },
+      "id": "node/12089541599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12089549471",
+        "amenity": "hospital",
+        "name": "USP KAMINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8571316,
+          7.9252264
+        ]
+      },
+      "id": "node/12089549471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12101137468",
+        "amenity": "hospital",
+        "name": "CMS MORETAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3486372,
+          8.1076967
+        ]
+      },
+      "id": "node/12101137468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12101144324",
+        "amenity": "hospital",
+        "name": "USP TCHEKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3415271,
+          8.1969497
+        ]
+      },
+      "id": "node/12101144324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12114109534",
+        "amenity": "hospital",
+        "name": "USP Zogbégan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6769027,
+          7.5736684
+        ]
+      },
+      "id": "node/12114109534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12120677670",
+        "amenity": "hospital",
+        "name": "USP YANDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5946804,
+          8.3289169
+        ]
+      },
+      "id": "node/12120677670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12128048639",
+        "amenity": "hospital",
+        "name": "USP OKPAHOUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0175934,
+          7.6138434
+        ]
+      },
+      "id": "node/12128048639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12199755830",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6065809,
+          7.5132393
+        ]
+      },
+      "id": "node/12199755830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12199905181",
+        "amenity": "hospital",
+        "name": "Anonoé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6036575,
+          7.5617873
+        ]
+      },
+      "id": "node/12199905181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12212052251",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3339925,
+          6.9953684
+        ]
+      },
+      "id": "node/12212052251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12212052768",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4991525,
+          7.0139263
+        ]
+      },
+      "id": "node/12212052768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12212067956",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1511677,
+          7.06974
+        ]
+      },
+      "id": "node/12212067956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12212069330",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0785794,
+          7.1151389
+        ]
+      },
+      "id": "node/12212069330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12252445356",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.136117,
+          8.1258267
+        ]
+      },
+      "id": "node/12252445356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12252458596",
+        "amenity": "hospital",
+        "name": "CMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.798756,
+          7.2751196
+        ]
+      },
+      "id": "node/12252458596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12252458876",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9654046,
+          6.9097894
+        ]
+      },
+      "id": "node/12252458876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12252486414",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7159455,
+          7.0752298
+        ]
+      },
+      "id": "node/12252486414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12399679384",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6316136,
+          9.6105821
+        ]
+      },
+      "id": "node/12399679384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12399694068",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6978878,
+          9.5646602
+        ]
+      },
+      "id": "node/12399694068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12429560503",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2922135,
+          9.057176
+        ]
+      },
+      "id": "node/12429560503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12429565276",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3264685,
+          9.3581596
+        ]
+      },
+      "id": "node/12429565276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12429575326",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.258667,
+          9.0006598
+        ]
+      },
+      "id": "node/12429575326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12429647619",
+        "amenity": "hospital",
+        "name": "Usp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2432629,
+          9.2344599
+        ]
+      },
+      "id": "node/12429647619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12429750367",
+        "amenity": "hospital",
+        "name": "Usp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8869986,
+          8.2072592
+        ]
+      },
+      "id": "node/12429750367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12484088515",
+        "amenity": "hospital",
+        "name": "USP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4966101,
+          7.4406862
+        ]
+      },
+      "id": "node/12484088515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12587754150",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "CMS AMOU OBLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8615197,
+          7.3816047
+        ]
+      },
+      "id": "node/12587754150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12802033000",
+        "amenity": "hospital",
+        "name": "CMS de SIOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2015317,
+          9.8221479
+        ]
+      },
+      "id": "node/12802033000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12802042390",
+        "amenity": "hospital",
+        "name": "Case de Santé de Hounahou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1032336,
+          9.8059715
+        ]
+      },
+      "id": "node/12802042390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12908461817",
+        "amenity": "hospital",
+        "name": "Hôpital Gotta Lafia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1855372,
+          9.5544978
+        ]
+      },
+      "id": "node/12908461817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12956047036",
+        "amenity": "hospital",
+        "description": "Centre de traitement",
+        "name": "CMS tchékélé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4149772,
+          8.9953557
+        ]
+      },
+      "id": "node/12956047036"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pulseai.web.app/sitemap.xml
+
+# PulseAI - Application de santé intelligente
+# Diagnostic IA, Localisation d'hôpitaux, Vérification de médicaments, Santé mentale

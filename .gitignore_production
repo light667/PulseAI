@@ -1,0 +1,66 @@
+# ⚠️ FICHIERS SENSIBLES - NE JAMAIS COMMITER !
+
+# Production Backend
+PRODUCTION_BACKEND/.env
+PRODUCTION_BACKEND/.env.local
+PRODUCTION_BACKEND/.env.production
+PRODUCTION_BACKEND/*.db
+PRODUCTION_BACKEND/*.sqlite
+PRODUCTION_BACKEND/*.sqlite3
+
+# Mobile App - Android Signing
+MOBILEAPP/pulseai/android/key.properties
+MOBILEAPP/pulseai/android/app/*.jks
+MOBILEAPP/pulseai/android/app/*.keystore
+
+# Configuration personnelle
+CONFIGURATION_PRODUCTION.md
+
+# Clés API et secrets (patterns)
+**/secrets.json
+**/*-secret.json
+**/*.key
+**/*.pem
+
+# Base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Environnement Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.Python
+**/venv/
+**/ENV/
+**/.venv
+
+# Node modules
+**/node_modules/
+
+# Flutter
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+.cache/

@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: pulseai-backend
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: MISTRAL_API_KEY
+        sync: false
+    healthCheckPath: /health

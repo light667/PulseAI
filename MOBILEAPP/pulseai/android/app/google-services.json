@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "531782026308",
+    "project_id": "pulseai-a0548",
+    "storage_bucket": "pulseai-a0548.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531782026308:android:b7ebbe25a9bff574ef6811",
+        "android_client_info": {
+          "package_name": "com.neuractif.pulseai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531782026308-ratrbt51not8d4ue0ha8509i0bvgmk49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neuractif.pulseai",
+            "certificate_hash": "28c6d0fa7adc26ff46582d6757787101da9c46d6"
+          }
+        },
+        {
+          "client_id": "531782026308-ldpkc064lnkaolrjq8lo4d6oq2u92p70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoHY9t9FYAV9pPElAAF3iXxO_2gJwKYAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531782026308-ldpkc064lnkaolrjq8lo4d6oq2u92p70.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531782026308-c0ppikh2k92snucbgi44s2l8e0g4cr8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neuractif.pulseai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

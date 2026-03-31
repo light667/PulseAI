@@ -1,0 +1,30 @@
+# Code Owners for PulseAI
+
+# Default owners for everything in the repo
+* @neuractif-initiatives
+
+# Backend services
+/BACKEND/ @neuractif-initiatives
+/CHATBOT/ @neuractif-initiatives
+/DASHBOARD\ WEB/backend/ @neuractif-initiatives
+
+# Frontend
+/DASHBOARD\ WEB/frontend/ @neuractif-initiatives
+
+# Mobile app
+/MOBILEAPP/ @neuractif-initiatives
+
+# Infrastructure & DevOps
+/.github/ @neuractif-initiatives
+/docker-compose.yml @neuractif-initiatives
+/render.yaml @neuractif-initiatives
+*.sh @neuractif-initiatives
+
+# Documentation
+/docs/ @neuractif-initiatives
+*.md @neuractif-initiatives
+
+# Configuration files
+/.gitignore @neuractif-initiatives
+/.env.example @neuractif-initiatives
+/requirements.txt @neuractif-initiatives

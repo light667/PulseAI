@@ -1,0 +1,40 @@
+{
+    "name": "PulseAI - Intelligence Artificielle pour la Santé",
+    "short_name": "PulseAI",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0077B6",
+    "theme_color": "#0077B6",
+    "description": "Application de santé intelligente : Diagnostic IA (RURAL DIAG), localisation d'hôpitaux (SMARTHOSP), vérification de médicaments (MED SCAN) et assistant de santé mentale (LYRA).",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "categories": [
+        "health",
+        "medical",
+        "lifestyle"
+    ],
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
