@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "pulseai-org",
+          "appId": "1:1034033111503:android:9598cbfd727be78bd7f2ba",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "pulseai-org",
+          "configurations": {
+            "android": "1:1034033111503:android:9598cbfd727be78bd7f2ba",
+            "ios": "1:1034033111503:ios:1fb35e4d65928e3ad7f2ba",
+            "macos": "1:1034033111503:ios:1fb35e4d65928e3ad7f2ba",
+            "web": "1:1034033111503:web:aa107f21f2e11553d7f2ba",
+            "windows": "1:1034033111503:web:82467d0321d73f00d7f2ba"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
