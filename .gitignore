@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 Final_Augmented_dataset_Diseases_and_Symptoms.csv
+.firebase
+.github
